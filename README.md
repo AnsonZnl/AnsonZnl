@@ -5,4 +5,4 @@
 > I'm a web development engineer    
 > I like JavaScript
 
-🔗 My blog address: https://ansonznl.github.io
+🔗 Blog: https://ansonznl.github.io
