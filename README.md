@@ -5,4 +5,6 @@
 > I'm a web development engineer    
 > I like JavaScript
 
-🔗 Blog: https://ansonznl.github.io
+Blog: https://ansonznl.github.io.   
+掘金: https://juejin.cn/user/4037062426631288.   
+SegmentFault: https://segmentfault.com/u/ansonznl
