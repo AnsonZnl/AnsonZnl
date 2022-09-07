@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-> I'm a web development engineer.
+> I'm a software engineer
 
 **社交主页**
 - [Blog](https://ansonznl.github.io)
