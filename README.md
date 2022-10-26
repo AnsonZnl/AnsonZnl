@@ -6,7 +6,7 @@
 
 **社交主页**
 - [九旬的博客](https://ansonznl.github.io)
-- [掘金](https://juejin.cn/user/4037062426631288)
+- [九旬的掘金](https://juejin.cn/user/4037062426631288)
 - [SegmentFault](https://segmentfault.com/u/ansonznl)
 
 
