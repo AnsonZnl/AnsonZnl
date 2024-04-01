@@ -9,4 +9,6 @@
 - [九旬的掘金](https://juejin.cn/user/4037062426631288)
 - [SegmentFault](https://segmentfault.com/u/ansonznl)
 
+**微信公众号**    
 
+<img src="https://s2.loli.net/2024/04/01/fznWru18dX4ptxT.png" alt="关注微信公众号" width="500"> 
